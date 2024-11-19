@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KumudiniGandesiri
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning to Code,Commit, Deploy
+- 👀 I’m interested in Software Developer Roles
 - 💞️ I’m looking to collaborate on Software Development Roles
 - 📫 How to reach me kumudinigandhesiri@gmail.com
 - 😄 Pronouns: She/hers
