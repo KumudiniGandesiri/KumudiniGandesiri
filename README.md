@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KumudiniGandesiri
-- 👀 I’m interested in Software Developer Roles
+- 👀 I’m passionate about roles that bridge the gap between hardware systems and data analysis.
 - 💞️ I’m looking to collaborate on Software Development Roles
 - 📫 How to reach me kumudinigandhesiri@gmail.com
 - 😄 Pronouns: She/hers
